@@ -27,6 +27,6 @@ KoTeKTools - это инструмент для модификации и соз
 
 ## Автор:
 
-# KoTeK
+KoTeK
 - t.me/kotek_ya (tg)
 - t.me/kotek_mods (tg)
