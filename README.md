@@ -29,6 +29,7 @@ XtremeByte - Конверт btx <=> png взял из их репозитори�
 - STB Image library
 - libzip
 - Filesystem library
+- PVRTexLib
 
 ## Автор
 
