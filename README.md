@@ -30,6 +30,7 @@ XtremeByte - Конверт btx <=> png взял из их репозитори�
 - libzip
 - Filesystem library
 - PVRTexLib
+- CUDA (опционально)
 
 ## Автор
 
